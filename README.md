@@ -38,12 +38,12 @@ Der Katzakel ist nicht nur ein mögliches reales Tier, sondern auch ein Spiegel 
 
 
 ## Literatur (erweiterte Auswahl)
-*Agvan der Große (ca. 870 v. Chr.): Fabelhafte Wesen des Khanat Sibir. Holztafeldruck, verschollen, zitiert nach späteren Abschriften.*
-*Borodin, J. A. (1623): Über seltsame Tiere, die sich im Schnee nicht schämen. Reiseaufzeichnungen eines zaristischen Grenzbeamten.*
-*Fjodorowa, L. M. (1751): „Der Muff als Schutz und Symbol bei Waldwesen Nordasiens“. In: Annalen der Kaiserlichen Ethnographischen Gesellschaft, Bd. III.*
-*Petrowskaja, N. (2009): „Vom Fell zum Muff – Kleidung bei Kryptiden“. In: Mythobiologia Borealis, Bd. 12.*
-*Uganovnovnov, I. P. M. (2018): Carnivore Grenzformen Eurasiens. Ulan-Ude.*
-*Wolkow, S. I. (2021): „Warum wir den Katzakel nie sehen“. In: Journal für Angewandte Abwesenheitsforschung, Vol. 1, Nr. 1.*
+- *Agvan der Große (ca. 870 v. Chr.): Fabelhafte Wesen des Khanat Sibir. Holztafeldruck, verschollen, zitiert nach späteren Abschriften.*
+- *Borodin, J. A. (1623): Über seltsame Tiere, die sich im Schnee nicht schämen. Reiseaufzeichnungen eines zaristischen Grenzbeamten.*
+- *Fjodorowa, L. M. (1751): „Der Muff als Schutz und Symbol bei Waldwesen Nordasiens“. In: Annalen der Kaiserlichen Ethnographischen Gesellschaft, Bd. III.*
+- *Petrowskaja, N. (2009): „Vom Fell zum Muff – Kleidung bei Kryptiden“. In: Mythobiologia Borealis, Bd. 12.*
+- *Uganovnovnov, I. P. M. (2018): Carnivore Grenzformen Eurasiens. Ulan-Ude.*
+- *Wolkow, S. I. (2021): „Warum wir den Katzakel nie sehen“. In: Journal für Angewandte Abwesenheitsforschung, Vol. 1, Nr. 1.*
 
 # Katzakel 
 ## (felis canis paradoxus)
