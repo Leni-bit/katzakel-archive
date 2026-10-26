@@ -147,3 +147,11 @@ Zugeschriebenes Fragment Agvans des Großen
 
 „Es war weder Tier noch Zeichen, doch es fror, und darum blieb es.“
 (Agvan der Große, ca. 870 v. Chr., zugeschrieben)
+
+# Weiterführende Literatur & Bücher 
+* 📖 [Lies hier: Agvan der Große](Agvan der Große - Deutsche Version.pdf)
+* 📖 [Lies hier: Der Katzakel im Märchen - Kopatschowa](Der Katzakel im Märchen - Kopatschowa.pdf)
+* 📖 [Lies hier: Borodin](Jefrem Arkadi Borodin - Deutsche Version.pdf)
+* 📖 [Lies hier: Fjodorowa](Ludmillamilla Marina Fjodorowa - Deutsche Version.pdf)
+* 📖 [Lies hier: Petroskaja](Nadja Petroskaja - Vom Fell zum Muff - Deutsche Version.pdf)
+* 📖 [Lies hier: Warum wir den Katzakel nie sehen](Warum wir den Katzakel nie sehen - Sergei Iwanowitschiwatschi Wolkow.pdf)
