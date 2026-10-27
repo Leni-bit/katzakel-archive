@@ -156,3 +156,4 @@ Zugeschriebenes Fragment Agvans des Großen
 * 📖 [Lies hier: Fjodorowa](Ludmillamilla%20Marina%20Fjodorowa%20-%20Deutsche%20Version.pdf)
 * 📖 [Lies hier: Petroskaja](Nadja%20Petroskaja%20-%20Vom%20Fell%20zum%20Muff%20-%20Deutsche%20Version.pdf)
 * 📖 [Lies hier: Warum wir den Katzakel nie sehen](Warum%20wir%20den%20Katzakel%20nie%20sehen%20-%20Sergei%20Iwanowitschiwatschi%20Wolkow.pdf)
+* 📖 [Lies hier: Tafelband](Der%20Katzakel%20im%20Bild%20-%20Ein%20Tafelband.pdf)
