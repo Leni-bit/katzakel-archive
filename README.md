@@ -149,9 +149,9 @@ Zugeschriebenes Fragment Agvans des Großen
 (Agvan der Große, ca. 870 v. Chr., zugeschrieben)
 
 # Weiterführende Literatur & Bücher 
-* 📖 [Lies hier: Agvan der Große](Agvan der Große - Deutsche Version.pdf)
-* 📖 [Lies hier: Der Katzakel im Märchen - Kopatschowa](Der Katzakel im Märchen - Kopatschowa.pdf)
-* 📖 [Lies hier: Borodin](Jefrem Arkadi Borodin - Deutsche Version.pdf)
-* 📖 [Lies hier: Fjodorowa](Ludmillamilla Marina Fjodorowa - Deutsche Version.pdf)
-* 📖 [Lies hier: Petroskaja](Nadja Petroskaja - Vom Fell zum Muff - Deutsche Version.pdf)
-* 📖 [Lies hier: Warum wir den Katzakel nie sehen](Warum wir den Katzakel nie sehen - Sergei Iwanowitschiwatschi Wolkow.pdf)
+* 📖 [Lies hier: Agvan der Große](Agvan%20der%20Große&20-%20Deutsche%20Version.pdf)
+* 📖 [Lies hier: Der Katzakel im Märchen - Kopatschowa](Der%20Katzakel%20im%20Märchen%20-%20Kopatschowa.pdf)
+* 📖 [Lies hier: Borodin](Jefrem%20Arkadi%20Borodin%20-%20Deutsche%20Version.pdf)
+* 📖 [Lies hier: Fjodorowa](Ludmillamilla%20Marina%20Fjodorowa%20-%20Deutsche%20Version.pdf)
+* 📖 [Lies hier: Petroskaja](Nadja%20Petroskaja%20-%20Vom%20Fell%20zum%20Muff%20-%20Deutsche%20Version.pdf)
+* 📖 [Lies hier: Warum wir den Katzakel nie sehen](Warum%20wir%20den%20Katzakel%20nie%20sehen%20-%20Sergei%20Iwanowitschiwatschi%20Wolkow.pdf)
