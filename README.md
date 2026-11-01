@@ -1,3 +1,4 @@
+
 # katzakel-archive
 # The amazing universe of a forgotten animal of Siberia 
 <img width="1536" height="1024" alt="Katzakel Bild" src="https://github.com/user-attachments/assets/80ab7452-29fd-4798-84f3-5cd8d9f4b2c4" />
@@ -157,3 +158,4 @@ Zugeschriebenes Fragment Agvans des Großen
 * 📖 [Lies hier: Petroskaja](Nadja%20Petroskaja%20-%20Vom%20Fell%20zum%20Muff%20-%20Deutsche%20Version.pdf)
 * 📖 [Lies hier: Warum wir den Katzakel nie sehen](Warum%20wir%20den%20Katzakel%20nie%20sehen%20-%20Sergei%20Iwanowitschiwatschi%20Wolkow.pdf)
 * 📖 [Lies hier: Tafelband](Der%20Katzakel%20im%20Bild%20-%20Ein%20Tafelband.pdf)
+* 📖 [Lies hier: Verhaltensadaption beim Katzakel, Uganovnovnov 2026](VerhaltensadaptionKatzakel.pdf)
